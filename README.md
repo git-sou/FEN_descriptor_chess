@@ -69,5 +69,6 @@ After these two steps, I tested my models to evaluate it. I obtained only 65%. I
 
 ### Deep Learning approach
 
+After performing a machine learning approach, I tried to use a Deep Learning approach where I don't need to compute features. 
 
 
