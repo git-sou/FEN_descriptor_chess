@@ -11,7 +11,7 @@ The following picture shows us briefly how the FEN descriptor works.
 </p>
 
 ## Data
-The dataset comes from Kaggle. It is composed of 100000 images of a randomly generated chess positions of 5-15 pieces (2 kings and 3-13 pawns/pieces). Of course, i didn't use all this amount of images. Images (400x400 pixels) were generated using 28 styles of chess boards and 32 styles of chess pieces totaling 896 board/piece style combinations. Pieces were generated with the following probability distribution: 
+The dataset comes from Kaggle (https://www.kaggle.com/koryakinp/chess-positions). It is composed of 100k images of a randomly generated chess positions of 5-15 pieces (2 kings and 3-13 pawns/pieces). Of course, i didn't use all this amount of images. Images (400x400 pixels) were generated using 28 styles of chess boards and 32 styles of chess pieces totaling 896 board/piece style combinations. Pieces were generated with the following probability distribution: 
 - 30% for Pawn 
 - 20% for Bishop
 - 20% for Knight
