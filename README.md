@@ -1,4 +1,4 @@
-# FEN_descriptor_chess
+# FEN descriptor chess
 
 The goal of this project is to use Computer Vision and machine learning techniques to generate a Forsyth-Edwards Notation (FEN) descriptor from images. To explain briefly, FEN, for Forsyth–Edwards Notation, is a standard notation developed by Scottish for describing a particular board position of a chess game. So, it makes easy to translate any chess position into a single line of text. It facilitates the process of recreating positions using computers and allows players to share them and restart games from any point they desire. It replaces the need to send large PGN files.
 <p align="center">
