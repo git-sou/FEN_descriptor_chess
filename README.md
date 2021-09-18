@@ -65,7 +65,7 @@ We can notice that the pawn 'Q' and 'q' have the "worst" accuracy. I could guess
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/83417933/125191761-5b290300-e244-11eb-8161-de1307d8a8e5.png">
 </p>
 
-After these two steps, I tested my models to evaluate it. I obtained only 65%. It could be suprising due to the high efficiency of classifiers but it is enough to misclassify an square to have all the FEN descriptor of the chess boards false. But I think I can improve it easily by training classifier with more data in particular the second one. 
+After these two steps, I tested my models to evaluate it. I obtained only 65%. It could be surprising due to the high efficiency of classifiers but it is enough to misclassify an square to have all the FEN descriptor of the chess boards false. But I think I can improve it easily by training classifier with more data in particular the second one. 
 
 ### Deep Learning approach
 
