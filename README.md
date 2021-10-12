@@ -70,5 +70,8 @@ After these two steps, I tested my models to evaluate it. I obtained around 60 %
 ### Deep Learning approach
 
 After performing a machine learning approach, I tried to use a Deep Learning approach where I don't need to compute features. As we can expect, I train a CNN classifier. You can see the architecture in the following picture:
+<p align="center">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/83417933/136970762-1a616407-57f1-4861-889b-88f06a93aaf9.png">
+</p>
 
-
+It is composed of 3 convolution layers and one neural network layer. I added a batch normalisations to make the training faster and more stable. I added also drop out to prevent overfitting. 
