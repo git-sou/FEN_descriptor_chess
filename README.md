@@ -65,10 +65,10 @@ We can notice that the pawn 'Q' and 'q' have the "worst" accuracy. I could guess
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/83417933/125191761-5b290300-e244-11eb-8161-de1307d8a8e5.png">
 </p>
 
-After these two steps, I tested my models to evaluate it. I obtained only 65%. It could be surprising due to the high efficiency of classifiers but it is enough to misclassify an square to have all the FEN descriptor of the chess boards false. But I think I can improve it easily by training classifier with more data in particular the second one. 
+After these two steps, I tested my models to evaluate it. I obtained around 60 %. It could be surprising due to the high efficiency of classifiers but it is enough to misclassify an square to have the whole FEN descriptor of the chess boards false. I needed to define better my accuracy. So I defined my accuracy thanks to the 64 squuares and meaned them in the whole chess boards. I obtained an accuracy of 98 %. 
 
 ### Deep Learning approach
 
-After performing a machine learning approach, I tried to use a Deep Learning approach where I don't need to compute features. As we can expect, I train a CNN classifier.
+After performing a machine learning approach, I tried to use a Deep Learning approach where I don't need to compute features. As we can expect, I train a CNN classifier. You can see the architecture in the following picture:
 
 
