@@ -77,5 +77,5 @@ After performing a machine learning approach, I tried to use a Deep Learning app
 It is composed of 3 convolution layers and one neural network layer. I added a batch normalisations to make the training faster and more stable. I added also drop out to prevent overfitting.
 
 <p align="center">
-<img width="374" alt="image" src="https://user-images.githubusercontent.com/83417933/136970762-1a616407-57f1-4861-889b-88f06a93aaf9.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/83417933/137121902-902caefb-c955-440f-aa89-1b4c4315c427.png">
 </p>
