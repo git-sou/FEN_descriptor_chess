@@ -76,6 +76,8 @@ After performing a machine learning approach, I tried to use a Deep Learning app
 
 It is composed of 3 convolution layers and one neural network layer. I added a batch normalisations to make the training faster and more stable. I added also drop out to prevent overfitting.
 
+In the following picture, you can see the results: the test accuracy is around 99 % which is excellent. 
+
 <p align="center">
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/83417933/137121902-902caefb-c955-440f-aa89-1b4c4315c427.png">
 </p>
